@@ -1,0 +1,4 @@
+"pucid","source.type","form","variable","dtxsid","product.id","pr.chem","dist.type","par1","par2","par3","par4","l.trunc","u.trunc","resamp","PUC_level3"
+"CP.0400.030","product","liquid","f.chemical","DTXSID4020533",1,1,"lognormal",9.7e-06,1,NA,NA,NA,NA,NA,"automatic dishwashing detergent"
+"CP.0400.030","product","powder","f.chemical","DTXSID4020533",1,1,"lognormal",9.7e-06,1,NA,NA,NA,NA,NA,"automatic dishwashing detergent"
+"CP.0400.030","product","gel","f.chemical","DTXSID4020533",2,1,"lognormal",9.7e-06,1,NA,NA,NA,NA,NA,"automatic dishwashing detergent"

@@ -1,0 +1,25 @@
+Variable, Value
+run.name = SHT_Run_14D_VE.0500.010
+n.persons = 10000
+person.output = yes
+source.output = yes
+min.age = 0
+max.age = 99
+genders = FM
+seasons = PSFW
+details = 1
+age.match.pct = 20
+run.seed = 88429
+set.size = 10000
+act.diary.file = activity_diaries.csv
+chem.props.file = chemical_properties_0.1.9.csv
+diet.diary.file = diet_diaries_0.1.9.csv
+diet.demo.file = diet_demographics_0.1.9.csv
+exp.factor.file = exp_factors.csv
+fugacity.file = fugacity.csv
+media.file = media.csv
+physiology.file = physiology.csv
+population.file = population.csv
+source.vars.file = sourcevars_cpdat_0.1.9.csv
+source.scen.file = sourcescen_CPDat_0.1.9.csv
+source.chem.file = chemfile_14d_VE.0500.010.csv
