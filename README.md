@@ -1,5 +1,5 @@
 # SHEDS_OPPT_1_4Dioxane_RE
-Version of SHEDS-HT and associated input and output files used by OPPT to generate down-the-drain releases for the Risk Evaluation (RE) of 1,4 Dioxane
+Version of SHEDS-HT and associated input and output files used by EPA's Office of Pollution Prevention and Toxics to generate down-the-drain releases for the Risk Evaluation (RE) of 1,4 Dioxane
  
  
 This repository contains the following:
