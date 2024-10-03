@@ -3,7 +3,11 @@ Version of SHEDS-HT and associated input and output files used by OPPT to genera
  
  
 This repository contains the following:
+
 Final_RE_Inputs: SHEDS-HT input files used to generate estimates of down-the-drain chemical releases used in the RE
+
 Final_RE_Outputs: SHEDS-HT down-the-drain results
+
 ShedsHT_0.1.9.tar.gz: SHEDS R package beta version 0.1.9; contains version of the SHEDS-HT algorithms used in the RE analyses
+
 SHEDS_1,4D_OPPT_050422_postprocessing.R: R code that post-processes the SHEDS-HT results to generate the metrics reported in the RE
